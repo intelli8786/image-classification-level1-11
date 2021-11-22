@@ -1,3 +1,5 @@
+개인 리포트 [Report_T2060.pdf](https://github.com/intelli8786/image-classification-level1-11/files/7577755/Report_T2060.pdf)
+
 ## 팀원
 
 김지성 오동규 윤채원 이한빈 장동주 전미원 최윤성
